@@ -32,7 +32,7 @@ I'm a Computer Science Engineering student at **Budapest University of Technolog
 #### 🛜 Networking:
 - **[CCNA: Introduction to networks](https://www.credly.com/badges/085360eb-a178-4059-afc2-156a596efe7e)**
 - **[CCNA: Switching, Routing, and Wireless Essentials]()**
-- **CCNA: Introduction to networks** (In Progress...)
+- **[CCNA: Enterprise Networking, Security, and Automation]()** (In Progress...)
 ---
 
 ### 🚀 Current Projects:
